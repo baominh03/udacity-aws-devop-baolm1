@@ -34,32 +34,41 @@ In this project, you will deploy a static website to AWS by performing the follo
 1. Create/use IAM user with attach policy ```AdministratorAccess```, ```AmazonS3FullAccess```, ```CloudFrontFullAccess```
 2. Manually input AWS  KEY and AWS Secret KEY into ```config.cfg``` 
     ![config_file](./images/config_file.png)
-Unzip ```udacity-starter-website.zip``` inside project1 folder 
+    
+3. Unzip ```udacity-starter-website.zip``` inside project1 folder 
     ![unzip](./images/unzip.png)
-Run ```create_s3.py```
+    
+4. Run ```create_s3.py```
     ![creates3_1](./images/creates3_1.png)
     ![creates3_2](./images/creates3_2.png)
-Run ```upload_to_s3.py```
+    
+5. Run ```upload_to_s3.py```
     ![upload_1](./images/upload_1.png)
     ![upload_2](./images/upload_2.png)
-Run ```set_s3_policy.py```
+    
+6. Run ```set_s3_policy.py```
     ![policy_1](./images/policy_1.png)
     ![policy_2](./images/policy_2.png)
-Run ```config_s3_static_website.py```
+    
+7. Run ```config_s3_static_website.py```
     ![static_1](./images/static_1.png)
     ![static_2](./images/static_2.png)
-Run ```create_distribution_cloud_front.py```
+    
+8. Run ```create_distribution_cloud_front.py```
     ![create_cf_1](./images/create_cf_1.png)
     ![create_cf_2](./images/create_cf_2.png)
     ![create_cf_3](./images/create_cf_3.png)
-Check result
+    
+9. Check result
     ![result_1](./images/result_1.png)
     ![result_2](./images/result_2.png)
     ![result_3](./images/result_3.png)
-Clean up cloudfront - run ```delete_cloudfront.py```
+    
+10. Clean up cloudfront - run ```delete_cloudfront.py```
     ![delete_cf_1](./images/delete_cf_1.png)
     ![delete_cf_2](./images/delete_cf_2.png)
-Remove items in bucket and delete bucket - Run ```delete_s3.py```
+    
+11. Remove items in bucket and delete bucket - Run ```delete_s3.py```
     ![remove_s3_1](./images/remove_s3_1.png)
     ![remove_s3_2](./images/remove_s3_2.png)
 
