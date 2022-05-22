@@ -27,7 +27,7 @@ In this project, you will deploy a static website to AWS by performing the follo
 4. Install AWS CLI via package 
 
 # Prerequisites:
-
+Config AWS credentials 
 
 # Run scripts
 
