@@ -39,7 +39,7 @@ Config AWS credentials
 # Run scripts
 
 1. Create/use IAM user with attach policy ```AdministratorAccess```, ```AmazonS3FullAccess```, ```CloudFrontFullAccess```
-2. Manually input AWS  KEY and AWS Secret KEY into ```config.cfg``` 
+2. Manually input AWS  KEY and AWS Secret KEY, and your bucket name(s3_bucket_output) into ```config.cfg``` 
     ![config_file](./images/config_file.png)
     
 3. Unzip ```udacity-starter-website.zip``` inside project1 folder 
