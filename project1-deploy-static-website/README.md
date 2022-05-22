@@ -6,6 +6,13 @@ In this project, you will deploy a static website to AWS by performing the follo
 3. You will speed up content delivery using AWS’s content distribution network service, CloudFront.
 4. You will access your website in a browser using the unique CloudFront endpoint.
 
+# RESUBMIT: Mentor Please use these URL below for checking, thank you:
+(the exact domain name and the S3 URLs will be different in previous submission)
+=== Access these url to check the result:
+
+- d2evc5sv4cjtoi.cloudfront.net
+- udacity-981293034142-bucket.s3-website-ap-southeast-1.amazonaws.com
+- udacity-981293034142-bucket.s3-website-ap-southeast-1.amazonaws.com/index.html
 
 # Explanation of the files in the repository
 1. ```./aws/create_s3.py```: To create aws S3
