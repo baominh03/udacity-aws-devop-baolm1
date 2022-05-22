@@ -9,12 +9,12 @@ In this project, you will deploy a static website to AWS by performing the follo
 
 # Explanation of the files in the repository
 1. ```./aws/create_s3.py```: To create aws S3
-2. ```./aws/upload_to_s3.py```: To upload htlm folder to AWS S3
+2. ```./aws/upload_to_s3.py```: To upload html folder to AWS S3
 3. ```./aws/set_s3_policy.py```: To uset S3 policy via IAM
 4. ```./aws/config_s3_static_website.py```: To config static website on AWS S3
 5. ```./aws/create_distribution_cloudfront.py```: To create AWS cloudfront distribution and wait until it be Deployed
-6. ```./aws/delete_cloudfront.py```: To clean up  AWS cloudfront after using avoid wasting money
-7. ```./aws/delete_s3.py```: To clean up  AWS cloudfront after using avoid wasting money
+6. ```./aws/delete_cloudfront.py```: To clean up AWS cloudfront after using avoid wasting money
+7. ```./aws/delete_s3.py```: To clean up AWS S3 after using avoid wasting money
 8. ```./config.cfg```: To control global variables that use for this project
 9. ```./aws_helper/cloudfront_custom.json```: config file in order to create AWS cloudfront
 10. ```./aws_helper/cloudfront_custom_disable.json```: config file in order to disable AWS cloudfront
