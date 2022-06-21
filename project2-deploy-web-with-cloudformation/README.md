@@ -10,7 +10,7 @@ In this project, you will deploy a static website to AWS by performing the follo
 ![udacity-diagram](./images/project-2-Devops-Udacity-diagrams.png)
 
 ```Public URL: http://serve-WebAp-R98TABTEO99H-432508567.us-west-2.elb.amazonaws.com```
-![server-output](./images/server-stack-output.PNG)
+![access-url](./images/web-app-up-and-running.PNG)
 
 # Explanation of the files in the repository
 1. ```./network.yml```: Yaml network config file
