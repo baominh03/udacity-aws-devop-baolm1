@@ -1,10 +1,12 @@
-# Project 1: Deploy Static Website on AWS
-In this project, you will deploy a static website to AWS by performing the following steps:
+# Project 2: Deploy a high-availability web app using CloudFormation
+As your final project, you'll be faced with a real scenario.
 
-1. You will create a public S3 bucket and upload the website files to your bucket.
-2. You will configure the bucket for website hosting and secure it using IAM policies.
-3. You will speed up content delivery using AWS’s content distribution network service, CloudFront.
-4. You will access your website in a browser using the unique CloudFront endpoint.
+Creating this project will give you the hands-on experience you need to confidently talk about infrastructure as code. We have chosen a realistic scenario where you will deploy a dummy application (a sample JavaScript or HTML file) to the Apache Web Server running on an EC2 instance.
+
+There will be two parts to this project:
+
+- Diagram: You'll first develop a diagram that you can present as part of your portfolio and as a visual aid to understand the CloudFormation script.
+- Script (Template and Parameters): The second part is to interpret the instructions and create a matching CloudFormation script.
 
 # Udacity Cloud Infrastructure Diagram
 ![udacity-diagram](./images/project-2-Devops-Udacity-diagrams.png)
