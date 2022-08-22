@@ -17,7 +17,8 @@
 
      IMG:
 
-    ![udacity-devops-certificate](https://user-images.githubusercontent.com/39981269/186038138-2979157e-a4e0-4b5f-836e-083299b4c44a.png)
+    ![udacity-devops-certificate](https://user-images.githubusercontent.com/39981269/186039485-476b3bf5-54fc-44d0-b90d-f4cf74b4cfb1.png)
+
 
     </p>
     </details>
