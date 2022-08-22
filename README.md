@@ -1,5 +1,27 @@
 # udacity-aws-devop-baolm1
 
+
+## Certificate
+  
+
+- Certificate info
+    <details><summary>Click for Certificate</summary>
+    <p>
+     
+      
+     Udacity certificate confirmation: https://confirm.udacity.com/HDPFNAGD
+     
+     PDF file:
+      
+    [Cert - Cloud Devops Engineer - Bao Le.pdf](https://github.com/baominh03/udacity-aws-devop-baolm1/files/9398266/certificate.pdf)
+
+     IMG:
+
+    ![udacity-devops-certificate](https://user-images.githubusercontent.com/39981269/186038138-2979157e-a4e0-4b5f-836e-083299b4c44a.png)
+
+    </p>
+    </details>
+
 Project 1: please check ```README.md``` file inside ```project1-deploy-static-website``` folder
 
 Project 2: please check ```README.md``` file inside ```project2-deploy-web-with-cloudformation``` folder
